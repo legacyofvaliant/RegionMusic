@@ -1,4 +1,4 @@
-package net.nutchi.regionmusic;
+package com.github.e2318501.regionmusic;
 
 import lombok.Data;
 

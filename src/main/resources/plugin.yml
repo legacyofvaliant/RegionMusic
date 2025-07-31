@@ -1,6 +1,6 @@
 name: RegionMusic
 version: '${project.version}'
-main: net.nutchi.regionmusic.RegionMusic
+main: com.github.e2318501.regionmusic.RegionMusic
 api-version: '1.19'
 depend: [ WorldGuardEvents ]
 commands:

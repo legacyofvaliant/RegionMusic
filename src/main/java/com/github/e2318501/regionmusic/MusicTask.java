@@ -1,4 +1,4 @@
-package net.nutchi.regionmusic;
+package com.github.e2318501.regionmusic;
 
 import org.bukkit.entity.Player;
 import org.bukkit.scheduler.BukkitTask;

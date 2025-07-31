@@ -1,7 +1,7 @@
-package net.nutchi.regionmusic.listener;
+package com.github.e2318501.regionmusic.listener;
 
 import lombok.RequiredArgsConstructor;
-import net.nutchi.regionmusic.RegionMusic;
+import com.github.e2318501.regionmusic.RegionMusic;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.PlayerDeathEvent;

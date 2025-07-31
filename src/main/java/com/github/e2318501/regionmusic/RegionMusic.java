@@ -1,7 +1,7 @@
-package net.nutchi.regionmusic;
+package com.github.e2318501.regionmusic;
 
 import lombok.Getter;
-import net.nutchi.regionmusic.listener.PlayerListener;
+import com.github.e2318501.regionmusic.listener.PlayerListener;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
